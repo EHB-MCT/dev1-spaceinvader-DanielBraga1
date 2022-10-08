@@ -15,8 +15,8 @@ function drawbox() {
 context.fill();    
 
 context.stroke();
-context.strokeStyle = "pink";
-context.fillStyle = "pink"
+context.strokeStyle = "green";
+context.fillStyle = "green";
 context.beginPath();
     context.rect(100, 100, 200, 50);
     context.rect(100, 175, 200, 100);
